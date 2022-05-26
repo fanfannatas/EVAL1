@@ -59,3 +59,13 @@ body{
     padding-right: 10px;
     border-radius: 60%;
 }
+.card{
+    background-color: aquamarine;
+    text-align: center;
+    flex-direction: row;   
+}
+
+.tab{
+    height: 400px;
+    width: max-content;
+}
